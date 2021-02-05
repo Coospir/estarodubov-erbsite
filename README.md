@@ -1,3 +1,6 @@
+# Description of the project: 
+## This is a simple website, created via ReactJS, using Router. There is no Styled Components - styles are basing in one file. So, this is my first website, maded via ReactJS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
